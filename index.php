@@ -7,4 +7,6 @@
  * @author Keanu Ryan Janssen
  * 
  */
+require_once 'flexcms/core/init.php';
 
+$app = new App;
